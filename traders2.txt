@@ -1,0 +1,5 @@
+Alice, FX Trader, London
+Bob, Equity Analyst, Lagos
+Kofi, Risk Manager, Accra
+Zara, Quant Developer, Nairobi
+Mimi, IT Specialist, Lagos
