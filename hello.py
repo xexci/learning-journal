@@ -23,4 +23,6 @@ elif lives < 0:
     print("No lives remaining")
 else:
     print("Xerxcii Out!")
+
+    print("Day 5 - now using Git!")
  
