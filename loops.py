@@ -20,4 +20,6 @@ print(message)
 teammates = ["Mimi", "Ada", "Kofi", "Zara"]
 
 for teammate in teammates:
-    print(greet(teammate))
+print(greet(teammate))
+
+print("Branch created on Day 6!")
